@@ -1,0 +1,15 @@
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\bin\Debug\net6.0\Exercise3.exe
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\bin\Debug\net6.0\Exercise3.deps.json
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\bin\Debug\net6.0\Exercise3.runtimeconfig.json
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\bin\Debug\net6.0\Exercise3.dll
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\bin\Debug\net6.0\Exercise3.pdb
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\Exercise3.csproj.AssemblyReference.cache
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfoInputs.cache
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfo.cs
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\Exercise3.csproj.CoreCompileInputs.cache
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\Exercise3.dll
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\refint\Exercise3.dll
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\Exercise3.pdb
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\Exercise3.genruntimeconfig.cache
+D:\Ponneelan\C#\HomeAssignments\Oops\Polymorphysm\OperatorOverLoading\Exercise3\obj\Debug\net6.0\ref\Exercise3.dll
